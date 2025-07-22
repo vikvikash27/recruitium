@@ -1,5 +1,6 @@
 # Welcome to React Router!
 
+This is a Resume AI Analyzer
 A modern, production-ready template for building full-stack React applications using React Router.
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
@@ -23,6 +24,28 @@ Install the dependencies:
 ```bash
 npm install
 ```
+
+## Vite Installation
+
+npm create vite@latest .
+
+## PDFJS Installation
+
+npm install clsx tailwind-merge pdfjs-dist zustand
+
+## Tailwind Animate CSS
+
+npm install tw-animate-css
+
+## Documentation and examples at https://react-dropzone.js.org. Source code at https://github.com/react-dropzone/react-dropzone/
+
+## Installation
+
+npm install react-dropzone
+
+## or:
+
+yarn add react-dropzone
 
 ### Development
 
